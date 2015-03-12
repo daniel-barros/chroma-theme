@@ -7,7 +7,7 @@ Variables in white-yellow, classes and types in orange, functions in blue, strin
 ## Sample
 Some swift code using Chroma Dark. Looks great on Objective-C too!
 
-![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/images/code.png)
+![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/raw/master/images/code.png)
 
 ## License
-Released under the [MIT License](https://github.com/danielb5/chroma-theme/LICENSE.md)
+Released under the [MIT License](https://github.com/danielb5/chroma-theme/raw/master/LICENSE.md)
