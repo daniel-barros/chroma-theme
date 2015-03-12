@@ -21,5 +21,10 @@ Some swift code using Chroma theme. Looks great on Objective-C too!
 
 ![Swift code in Chroma Light](https://github.com/danielb5/chroma-theme/raw/master/images/light.png)
 
+## Instalation
+
+Use [Alcatraz](http://alcatraz.io)
+Alternatively, you can place the theme into the folder ~/Library/Developer/Xcode/UserData/FontAndColorThemes and restart Xcode.
+
 ## License
 Released under the [MIT License](https://github.com/danielb5/chroma-theme/raw/master/LICENSE.md)
