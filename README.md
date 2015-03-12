@@ -15,7 +15,7 @@ Keywords in purple: ![IBOutlet](https://github.com/danielb5/chroma-theme/raw/mas
 ## Dark
 Some swift code using Chroma theme. Looks great on Objective-C too!
 
-![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/raw/master/images/dark.png)
+![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/raw/master/images/code.png)
 
 ## Light
 
