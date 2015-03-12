@@ -23,7 +23,7 @@ Some swift code using Chroma theme. Looks great on Objective-C too!
 
 ## Instalation
 
-Use [Alcatraz](http://alcatraz.io)
+Use [Alcatraz](http://alcatraz.io)!
 
 Alternatively, you can place the theme into the folder ~/Library/Developer/Xcode/UserData/FontAndColorThemes and restart Xcode.
 
