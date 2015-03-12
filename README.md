@@ -12,10 +12,13 @@ Strings, chars and numbers in red: ![number](https://github.com/danielb5/chroma-
 
 Keywords in purple: ![IBOutlet](https://github.com/danielb5/chroma-theme/raw/master/images/iboutlet.png) ![if](https://github.com/danielb5/chroma-theme/raw/master/images/if.png) ![func](https://github.com/danielb5/chroma-theme/raw/master/images/func.png)
 
-## Sample
+## Dark
 Some swift code using Chroma theme. Looks great on Objective-C too!
 
 ![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/raw/master/images/dark.png)
+
+## Light
+
 ![Swift code in Chroma Light](https://github.com/danielb5/chroma-theme/raw/master/images/light.png)
 
 ## License
