@@ -29,3 +29,6 @@ Alternatively, you can place the theme into the folder ~/Library/Developer/Xcode
 
 ## License
 Released under the [MIT License](https://github.com/danielb5/chroma-theme/raw/master/LICENSE.md)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danielb5/chroma-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
