@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.1">
+<plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0 0 0 1</string>
@@ -45,7 +45,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>0.46253 0.26396 0.111513 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.801655 0.45228 0.458136 1</string>
+		<string>0.439312 0.653312 0.375715 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.342101 0.343855 0.340346 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -79,7 +79,7 @@
 		<key>xcode.syntax.keyword</key>
 		<string>0.638497 0.464515 0.734811 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.801655 0.45228 0.458136 1</string>
+		<string>0.439312 0.653312 0.375715 1</string>
 		<key>xcode.syntax.plain</key>
 		<string>0.751584 0.774881 0.764828 1</string>
 		<key>xcode.syntax.preprocessor</key>
