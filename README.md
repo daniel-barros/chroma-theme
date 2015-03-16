@@ -1,23 +1,27 @@
 # Chroma Theme
 
-This is a color theme heavily inspired in [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), modified to make code easier to understand. Colors don't just look nice, they also make sense:
+This is a color theme inspired in [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), modified to make your code easier to understand. Colors don't just look nice, they also make sense.
 
-Variables in white-yellow: ![local variable](https://github.com/danielb5/chroma-theme/raw/master/images/local.png) ![instance variable](https://github.com/danielb5/chroma-theme/raw/master/images/custom_instance.png) ![other instance variable](https://github.com/danielb5/chroma-theme/raw/master/images/instance.png)
+The color scheme has been chosen so what is more important (like variable and function calls) is easier to distinguish from the background. Each color has a purpose:
 
-Classes and types in orange: ![custom class](https://github.com/danielb5/chroma-theme/raw/master/images/class.png) ![cocoa class](https://github.com/danielb5/chroma-theme/raw/master/images/uicolor.png) ![cocoa type](https://github.com/danielb5/chroma-theme/raw/master/images/int.png)
+Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), instance variables declared in the project are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png), other instance variables are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png).
 
-Functions in blue: ![custom function](https://github.com/danielb5/chroma-theme/raw/master/images/custom_method.png) ![cocoa function](https://github.com/danielb5/chroma-theme/raw/master/images/method.png)
+Classes and types: those declared in the project are ![light orange](https://github.com/danielb5/chroma-theme/raw/master/images/light_orange.png), others are ![orange](https://github.com/danielb5/chroma-theme/raw/master/images/orange.png).
 
-Strings, chars and numbers in red: ![number](https://github.com/danielb5/chroma-theme/raw/master/images/42.png) ![string](https://github.com/danielb5/chroma-theme/raw/master/images/string.png)
+Functions: those declared in the project are ![light blue](https://github.com/danielb5/chroma-theme/raw/master/images/light_blue.png), others are ![blue](https://github.com/danielb5/chroma-theme/raw/master/images/blue.png).
 
-Keywords in purple: ![IBOutlet](https://github.com/danielb5/chroma-theme/raw/master/images/iboutlet.png) ![if](https://github.com/danielb5/chroma-theme/raw/master/images/if.png) ![func](https://github.com/danielb5/chroma-theme/raw/master/images/func.png)
+Keywords are ![purple](https://github.com/danielb5/chroma-theme/raw/master/images/purple.png).
 
-## Dark
+Strings are ![red](https://github.com/danielb5/chroma-theme/raw/master/images/red.png), characters and numbers are ![green](https://github.com/danielb5/chroma-theme/raw/master/images/green.png).
+
+
+
+## Dark version
 Some swift code using Chroma theme. Looks great on Objective-C too!
 
 ![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/raw/master/images/code.png)
 
-## Light
+## Light version
 
 ![Swift code in Chroma Light](https://github.com/danielb5/chroma-theme/raw/master/images/light.png)
 
