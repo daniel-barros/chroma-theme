@@ -22,6 +22,7 @@ Some swift code using Chroma theme. Looks great on Objective-C too!
 ![Swift code in Chroma Dark](https://github.com/danielb5/chroma-theme/raw/master/images/code.png)
 
 ## Light version
+Here the same example using the light version. It uses a similar color palette, but inverted (darker colors go to project elements, lighter colors go to library elements).
 
 ![Swift code in Chroma Light](https://github.com/danielb5/chroma-theme/raw/master/images/light.png)
 
