@@ -6,9 +6,9 @@ The color scheme has been chosen so what is more important (like variable and fu
 
 Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), instance variables declared in the project are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png), other instance variables are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png).
 
-Classes and types: those declared in the project are ![light orange](https://github.com/danielb5/chroma-theme/raw/master/images/light_orange.png), others are ![orange](https://github.com/danielb5/chroma-theme/raw/master/images/orange.png).
+Functions: those declared in the project are ![light orange](https://github.com/danielb5/chroma-theme/raw/master/images/light_orange.png), others are ![orange](https://github.com/danielb5/chroma-theme/raw/master/images/orange.png).
 
-Functions: those declared in the project are ![light blue](https://github.com/danielb5/chroma-theme/raw/master/images/light_blue.png), others are ![blue](https://github.com/danielb5/chroma-theme/raw/master/images/blue.png).
+Classes and types: those declared in the project are ![light blue](https://github.com/danielb5/chroma-theme/raw/master/images/light_blue.png), others are ![blue](https://github.com/danielb5/chroma-theme/raw/master/images/blue.png).
 
 Keywords are ![purple](https://github.com/danielb5/chroma-theme/raw/master/images/purple.png).
 
