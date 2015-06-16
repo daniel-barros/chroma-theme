@@ -26,7 +26,7 @@ Here the same example using the light version. It uses a similar color palette, 
 
 ![Swift code in Chroma Light](https://github.com/danielb5/chroma-theme/raw/master/images/light.png)
 
-## Instalation
+## Installation
 
 Use [Alcatraz](http://alcatraz.io)!
 
