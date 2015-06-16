@@ -2,7 +2,7 @@
 
 This is a color theme inspired in [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), modified to make your code easier to understand. Colors don't just look nice, they also make sense.
 
-The color scheme has been chosen so what is more important (like variable and function calls) is easier to distinguish from the background. Each color has a purpose:
+The color scheme has been chosen so what is more important (like variable names and function calls) is easier to distinguish from the background. Each color has a purpose:
 
 Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), instance variables declared in the project are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png), other instance variables are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png).
 
