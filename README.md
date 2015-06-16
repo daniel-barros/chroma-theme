@@ -2,7 +2,7 @@
 
 This is a color theme inspired in [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), modified to make your code easier to understand. Colors don't just look nice, they also make sense.
 
-The color scheme has been chosen so what is the most relevant for grasping the meaning of your code is the easiest to distinguish. Thus, variable names and functions have light colors that contrast with the background.
+The color scheme has been chosen so what is the most relevant for understanding your code at a glance is the easiest to distinguish. Thus, variable names and functions have light colors that contrast with the background.
 
 Variable names, classes, functions, keywords... all of them have very different colors helping with the legibility of your code:
 
