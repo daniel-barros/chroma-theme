@@ -10,7 +10,7 @@ Anything declared in your project has a slightly more vibrant color.
 
 Variable names, classes, functions, keywords... all of them have very different colors helping with the legibility of your code:
 
-Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), instances declared in the project are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png), others are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png).
+Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), properties declared in the project are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png), others are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png).
 
 Functions: those declared in the project are ![orange](https://github.com/danielb5/chroma-theme/raw/master/images/orange.png), others are ![light orange](https://github.com/danielb5/chroma-theme/raw/master/images/light_orange.png).
 
