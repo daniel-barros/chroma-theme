@@ -4,7 +4,7 @@ This is a color theme inspired in [Tomorrow Theme](https://github.com/chriskemps
 
 The color scheme has been chosen so what is the most relevant for understanding your code at a glance is the easiest to distinguish.
 
-Comments blend into the background so you can easily ignore them unless looking for them.
+Comments blend into the background.
 
 Anything declared in your project has a slightly more vibrant color.
 
