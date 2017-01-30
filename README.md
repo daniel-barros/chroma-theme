@@ -2,19 +2,23 @@
 
 This is a color theme inspired in [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), modified to make your code easier to understand. Colors don't just look nice, they also make sense.
 
-The color scheme has been chosen so what is the most relevant for understanding your code at a glance is the easiest to distinguish. Thus, variable names and functions have light colors that contrast with the background.
+The color scheme has been chosen so what is the most relevant for understanding your code at a glance is the easiest to distinguish.
+
+Comments blend into the background so you can easily ignore them unless looking for them.
+
+Anything declared in your project has a slightly more vibrant color.
 
 Variable names, classes, functions, keywords... all of them have very different colors helping with the legibility of your code:
 
-Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), instance variables declared in the project are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png), other instance variables are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png).
+Variables: locals are ![white](https://github.com/danielb5/chroma-theme/raw/master/images/white.png), instances declared in the project are ![yellow](https://github.com/danielb5/chroma-theme/raw/master/images/yellow.png), others are ![light yellow](https://github.com/danielb5/chroma-theme/raw/master/images/light_yellow.png).
 
-Functions: those declared in the project are ![light orange](https://github.com/danielb5/chroma-theme/raw/master/images/light_orange.png), others are ![orange](https://github.com/danielb5/chroma-theme/raw/master/images/orange.png).
+Functions: those declared in the project are ![orange](https://github.com/danielb5/chroma-theme/raw/master/images/orange.png), others are ![light orange](https://github.com/danielb5/chroma-theme/raw/master/images/light_orange.png).
 
-Classes and types: those declared in the project are ![light blue](https://github.com/danielb5/chroma-theme/raw/master/images/light_blue.png), others are ![blue](https://github.com/danielb5/chroma-theme/raw/master/images/blue.png).
+Classes and types: those declared in the project are ![blue](https://github.com/danielb5/chroma-theme/raw/master/images/blue.png), others are ![light blue](https://github.com/danielb5/chroma-theme/raw/master/images/light_blue.png).
 
 Keywords are ![purple](https://github.com/danielb5/chroma-theme/raw/master/images/purple.png).
 
-Strings are ![red](https://github.com/danielb5/chroma-theme/raw/master/images/red.png), characters and numbers are ![green](https://github.com/danielb5/chroma-theme/raw/master/images/green.png).
+Strings are ![red](https://github.com/danielb5/chroma-theme/raw/master/images/red.png), numbers are ![green](https://github.com/danielb5/chroma-theme/raw/master/images/green.png).
 
 
 
@@ -28,14 +32,9 @@ Here the same example using the light version. It uses a similar color palette, 
 
 ![Swift code in Chroma Light](https://github.com/danielb5/chroma-theme/raw/master/images/light.png)
 
-## Installation
+## Instalation
 
-Use [Alcatraz](http://alcatraz.io)!
-
-Alternatively, you can place the theme into the folder ~/Library/Developer/Xcode/UserData/FontAndColorThemes and restart Xcode.
+Place the theme into the folder ~/Library/Developer/Xcode/UserData/FontAndColorThemes and restart Xcode.
 
 ## License
 Released under the [MIT License](https://github.com/danielb5/chroma-theme/raw/master/LICENSE.md)
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danielb5/chroma-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
